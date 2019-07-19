@@ -14,8 +14,8 @@ text: the text of the tweet (Lyx is cool)
 
 
 # output files
-•	model.h5
-•	model.w2v
-•	tokenizer.pkl
-•	encoder.pkl
+model.h5                                                                                                                                   
+model.w2v                                                                                                                                 
+tokenizer.pkl                                                                                                                             
+encoder.pkl
 
